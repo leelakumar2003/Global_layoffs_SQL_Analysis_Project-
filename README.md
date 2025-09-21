@@ -47,6 +47,3 @@ It demonstrates SQL skills in **data cleaning, transformation, and exploratory d
 - **MySQL** (Data Cleaning + EDA)  
 - SQL Functions: `ROW_NUMBER()`, `DENSE_RANK()`, `GROUP BY`, `JOIN`, `WINDOW FUNCTIONS`  
 
-
-   ```bash
-   git clone https://github.com/yourusername/global-layoffs-sql-analysis.git
