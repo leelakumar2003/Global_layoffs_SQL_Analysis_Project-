@@ -1,4 +1,4 @@
-# Global Layoffs Data Cleaning & Analysis (SQL Project)
+# Global Layoffs Data Cleaning Analysis (SQL Project)
 
 This project explores a global layoffs dataset to uncover workforce trends across industries, companies, and funding stages. 
 It demonstrates SQL skills in **data cleaning, transformation, and exploratory data analysis (EDA)** using MySQL.
